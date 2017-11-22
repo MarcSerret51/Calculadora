@@ -1,7 +1,7 @@
 package calculadora2;
 
 /**
- * Principalmente es una calculadora
+ * Principalmente es una calculadora jajajajajajaj lol
  * @author vesperon
  * @version 23.2
  * @since creacion del universo
